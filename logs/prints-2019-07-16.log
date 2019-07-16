@@ -1,0 +1,14 @@
+14:10:16.855 [main] ERROR homw.listeners - this is error
+23:08:11.726 [main] INFO  resources.base - browser invoke
+23:08:49.804 [main] INFO  resources.base - browser invoke
+23:09:18.314 [main] INFO  java.lang.Object - size of links in footer
+23:09:27.679 [main] INFO  homw.listeners - stsrted
+23:09:27.689 [main] INFO  resources.base - browser invoke
+23:09:31.663 [main] ERROR homw.listeners - this is error
+23:09:31.669 [main] INFO  resources.base - browser invoke
+23:10:18.188 [main] ERROR homw.listeners - this is error
+23:10:18.204 [main] INFO  resources.base - browser invoke
+23:10:18.904 [main] ERROR homw.listeners - this is error
+23:10:18.904 [main] INFO  resources.base - browser invoke
+23:11:13.713 [main] ERROR homw.listeners - this is error
+23:11:13.802 [main] ERROR homw.listeners - this is error
