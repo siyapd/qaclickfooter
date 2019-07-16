@@ -23,7 +23,7 @@ public class Home extends base{
 	public void getdata() throws IOException, InterruptedException
 	{
 		
- driver=Invoke();
+ driver=Invoke();//invoke browser
  driver.get("http://www.qaclickacademy.com/");
  log.info("browser opened");
 int size=driver.findElements(By.xpath("//button[text()='NO THANKS']")).size();
