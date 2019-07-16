@@ -18,7 +18,7 @@ public static	Logger log =LogManager.getLogger(LandingPage.class);
 	public void data(String username ,String password) throws IOException
 	{
 		driver=Invoke();
-		driver.get("https://www.rediff.com/");
+		driver.get("https://www.rediff.com/");//rediff website launch
 		object o1=new object(driver);
 		o1.redifflogin().click();
 		o1.rediffuser().sendKeys(username);
