@@ -39,7 +39,7 @@ Thread.sleep(500);
 
 
  
- object o =new object(driver);
+ object o =new object(driver);//call constructor
 o.link1();
 
 log.info("links opened");
